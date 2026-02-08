@@ -8,6 +8,6 @@ set -e
 
 MY_DIR="$(cd "$(dirname "${0}")"; pwd -P)"
 
-pushd "${MY_DIR}/../caimito/komodo"
+pushd "${MY_DIR}/../muzel/mustang"
 ./setup-makefiles.py
 popd
