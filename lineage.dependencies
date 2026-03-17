@@ -1,6 +1,8 @@
 [
   {
-    "repository": "android_device_google_muzel",
-    "target_path": "device/google/muzel"
+    "repository": "TensorG5-devs/device_google_muzel",
+    "target_path": "device/google/muzel",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
   }
 ]
